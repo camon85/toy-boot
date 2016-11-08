@@ -31,8 +31,7 @@ html (mustache)
 
 ----
 TODO
-static resources
-redis
+redis sentinel
 log (rolling, logstash format) 
 argumentResolver
 controllAdvice
